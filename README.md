@@ -57,14 +57,3 @@ We developed a clustering pipeline using **K-Means** and **UMAP** dimensionality
 Clusters are color-coded and planets are labeled to show their similarity grouping.
 
 ---
-
-## 🧪 Sample Output
-
-```bash
-Planet:  Kepler-1649 c 
-     pl_name  st_lum  st_rad  ...  cluster_label
-1234  Kepler-1649 c   0.004    0.21  ...       3
-...
-Planet:  Earth 
-     pl_name  st_lum  st_rad  ...  cluster_label
-9999     Earth   1.000    1.000  ...       3
