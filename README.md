@@ -57,3 +57,49 @@ We developed a clustering pipeline using **K-Means** and **UMAP** dimensionality
 Clusters are color-coded and planets are labeled to show their similarity grouping.
 
 ---
+
+# 🚀 Exoplanet Habitability Clustering
+
+A machine learning project that analyzes and visualizes exoplanet data to explore potential habitability using clustering and dimensionality reduction techniques.
+
+---
+
+## 🧬 How to Run
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/exoplanet-habitability-clustering.git
+   cd exoplanet-habitability-clustering
+   ```
+
+2. **Install dependencies:**
+
+   ```bash
+   pip install pandas scikit-learn plotly umap-learn
+   ```
+
+3. **Run the analysis:**
+
+   ```bash
+   python main.py
+   ```
+
+4. **View the 3D interactive UMAP plot that opens in your browser.**
+
+---
+
+## 📜 Acknowledgements
+
+- Professor Downing for mentorship and guidance.  
+- NASA and Gaia for providing open exoplanet data.
+
+---
+
+## 📌 Future Work
+
+- Add supervised classification for finer habitability predictions.  
+- Incorporate atmospheric composition and albedo data.  
+- Develop web interface for interactive exploration.
+
+---
